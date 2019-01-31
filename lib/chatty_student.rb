@@ -1,0 +1,7 @@
+class ChattyStudent 
+  
+  def hello 
+    super 
+    puts "How are you doing today? I'm okay, but I'm kind of tired. Did you watch The Walking Dead "
+  
+end 
